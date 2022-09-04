@@ -1,4 +1,3 @@
 function helloWorld() {
-  console.log("Hello world");
-  console.log("some fix 2");
+  return "Hello Word!";
 }
